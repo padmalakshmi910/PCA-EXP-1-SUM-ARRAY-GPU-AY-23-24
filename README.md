@@ -1,4 +1,4 @@
-<img width="865" height="193" alt="Screenshot 2026-10-27 111444" src="https://github.com/user-attachments/assets/8a92271b-e8b5-4af9-8141-a0655494265c" /># PCA: EXP-1  SUM ARRAY GPU
+# PCA: EXP-1  SUM ARRAY GPU
 <h3>PADMA LAKSHMI G</h3>
 <h3>212225230206</h3>
 <h3>EX. NO:1</h3>
